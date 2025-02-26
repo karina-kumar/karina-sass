@@ -27,6 +27,12 @@
 
     ul {
         list-style-type: square;
+        list-style-position: inside;
+    }
+
+    a {
+      color: $secondary-color;
+      text-decoration: underline;
     }
 
   }
